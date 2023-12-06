@@ -9,4 +9,4 @@
 ## Programmers
 |original link|python||
 |------|-----|----------------|
-|[과제진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|[V](./programmers/)||
+|[과제진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|[V](./programmers/176962.py)||
